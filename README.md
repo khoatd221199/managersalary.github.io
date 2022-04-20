@@ -1,0 +1,1 @@
+# managersalary.github.io

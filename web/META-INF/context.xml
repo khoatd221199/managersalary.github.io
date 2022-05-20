@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/Manager_Salary"/>
+<Context path="/Manager_Salary">
+     <Resource   name="DataSource" type="javax.sql.DataSource"
+      auth="Container" driverClassName="org.postgresql.Driver"
+      
+      username="postgres" password="Vivuong@1511"
+      url="jdbc:postgresql//localhost:5432/postgres" />
+</Context>
+
